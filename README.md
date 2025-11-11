@@ -28,20 +28,16 @@
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yowxtq19&show_icons=true&theme=default&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yowxtq19&layout=compact&theme=default&hide_border=true" height="165">
-</p>
 
 ## 🧩 Highlight Projects
 •real-time memory write tweak
-📄 ApiSonic — web tools for Sonic Reseller  
+
+📄 ApiSonic — web tools for Sonic Reseller
 🧠 JRMemoryEngine Menu – custom ImGui-based mod menu
 
 
 ---
 
 <p align="center">
-  <sub>© 2025 Yowx Night — All rights reserved</sub>
+  <sub>© 2025 Yowx Modder — All rights reserved</sub>
 </p>
