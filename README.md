@@ -21,7 +21,10 @@
   <a href="https://t.me/yowxios">
     <img src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://sonic-reseller.com">
+  <a href="https://wa.me/46737254344">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://sonicmodeapi.netlify.app">
     <img src="https://img.shields.io/badge/Website-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge" />
   </a>
 </p>
