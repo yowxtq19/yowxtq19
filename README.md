@@ -6,7 +6,7 @@
 ## Owner Sonic Mode (FreeFire) 
 
 ## 🛠 Tech Stack
-- 💻 Languages: C | C++ | Objective-C | ImGui | JavaScript
+- 💻 Languages: C | C++ | Objective-C 
 - 📱 Mobile Developer (iOS / Theos)
 - 🧠 Memory hacking / game modding FF
 - 🧰 Tools: Xcode, IDA Pro, JRMemoryEngine, Git  
